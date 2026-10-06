@@ -1,0 +1,89 @@
+{
+    "entries": [
+        {
+            "tag": "Untagged",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Respawn",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Finish",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "EditorOnly",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "MainCamera",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Player",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "GameController",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Floor",
+            "colliderType": "Box",
+            "isStatic": true
+        },
+        {
+            "tag": "Rotate",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Door",
+            "colliderType": "Box",
+            "isStatic": true
+        },
+        {
+            "tag": "Wall",
+            "colliderType": "Box",
+            "isStatic": true
+        },
+        {
+            "tag": "Cube",
+            "colliderType": "Box",
+            "isStatic": false
+        },
+        {
+            "tag": "Moveable",
+            "colliderType": "None",
+            "isStatic": false
+        },
+        {
+            "tag": "Sphere",
+            "colliderType": "Sphere",
+            "isStatic": false
+        },
+        {
+            "tag": "Pyramid",
+            "colliderType": "Mesh",
+            "isStatic": false
+        },
+        {
+            "tag": "Cylinder",
+            "colliderType": "Box",
+            "isStatic": false
+        },
+        {
+            "tag": "Table",
+            "colliderType": "Mesh",
+            "isStatic": true
+        }
+    ]
+}

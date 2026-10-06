@@ -1,0 +1,10 @@
+{
+  "physics_thresholds": {
+    "base_confidence": 0.5,
+    "ignore_threshold": 0.3,
+    "anomaly_std_dev_multiplier": 2
+  },
+  "rules_data": {
+
+  }
+}

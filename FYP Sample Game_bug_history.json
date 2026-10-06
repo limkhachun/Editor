@@ -1,0 +1,182 @@
+[
+    {
+        "object_tag": "Table",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Table",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Pyramid",
+        "bug_type": "Kinematic with Gravity",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Pyramid",
+        "bug_type": "Physics Mass Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Wall",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Wall",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Floor",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Physics Mass Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Untagged",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.0
+    },
+    {
+        "object_tag": "Cylinder",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Player",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "MainCamera",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5000000000000001
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Kinematic with Gravity",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Untagged",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Physics Mass Anomaly",
+        "confidence_score": 0.6
+    },
+    {
+        "object_tag": "Cylinder",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "MainCamera",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Kinematic with Gravity",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Untagged",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cylinder",
+        "bug_type": "Missing Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cylinder",
+        "bug_type": "Physics Mass Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Pyramid",
+        "bug_type": "Mesh Convex Collider Bug",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Missing Rigidbody",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "MainCamera",
+        "bug_type": "Mismatch Collider",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cylinder",
+        "bug_type": "Kinematic with Gravity",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Pyramid",
+        "bug_type": "Physics Angular Drag Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Physics Angular Drag Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Physics Angular Drag Anomaly",
+        "confidence_score": 0.6
+    },
+    {
+        "object_tag": "Sphere",
+        "bug_type": "Physics Drag Anomaly",
+        "confidence_score": 0.6
+    },
+    {
+        "object_tag": "Pyramid",
+        "bug_type": "Physics Drag Anomaly",
+        "confidence_score": 0.5
+    },
+    {
+        "object_tag": "Cube",
+        "bug_type": "Physics Drag Anomaly",
+        "confidence_score": 0.5
+    }
+]
